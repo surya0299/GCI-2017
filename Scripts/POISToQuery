@@ -1,0 +1,23 @@
+#!/bin/bash
+
+inputfile=doc.kml
+temp1=t1.txt
+temp2=t2.txt
+temp3=t3.txt
+temp4=t4.txt
+temp5=t5.txt
+outputfile=queries.txt
+
+var=$(grep --group-separator="@" -A 10 "<LookAt>" "$inputfile" | tr -d "\n" | tr -d "\t" | tr -d " ")
+
+echo $var | tr "@" "\n" > "$temp1"
+awk -F '</LookAt>' '{print $1}' "$temp1" > "$temp2"
+awk '{print $0 "</LookAt>"}' "$temp2" > "$temp3"
+awk  '{print "@flytoview=" $0}' "$temp3" > "$temp4"
+nl -w2 -s ' ' "$temp4" > "$temp5"
+awk  '{print "earth@" $0}' "$temp5" > $outputfile
+rm $temp1 $temp2 $temp3 $temp4 $temp5 $temp6
+
+
+
+
