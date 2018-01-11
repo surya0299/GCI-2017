@@ -1,0 +1,6 @@
+#!/bin/bash
+file=$1 #KML file taken as input
+var=$(grep "<gx:duration>" "$file")   #variable with all instances of the duration     
+echo "$var" | grep -Eo '[+-]?[0-9]+([.][0-9]+)?' | awk '{ SUM +=$1} END {print SUM }'
+
+

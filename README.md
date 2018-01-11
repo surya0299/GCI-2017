@@ -16,6 +16,9 @@ GCI 2017 LG [Google Group](https://groups.google.com/forum/#!forum/gci17lg) (Say
 
 At Google Code-In --> [Liquid Galaxy Project](https://codein.withgoogle.com/organizations/liquid-galaxy-project/)
 
+Websites -->    http://www.liquidgalaxylab.com/
+                https://liquidgalaxy.endpoint.com/
+
 In the spirit of open-source, you are free to contribute in terms of a write-up, or as any other means, but remember to be patient and polite.
 
 
