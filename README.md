@@ -23,7 +23,7 @@ In the spirit of open-source, you are free to contribute in terms of a write-up,
 
 Contribution Guide - [https://github.com/LiquidGalaxy/liquid-galaxy/wiki/HowToContribute](https://github.com/LiquidGalaxy/liquid-galaxy/wiki/HowToContribute)
 
-Ideas Page - [https://github.com/LiquidGalaxy/liquid-galaxy/wiki/IdeasPage](https://github.com/LiquidGalaxy/liquid-galaxy/wiki/IdeasPage)
+Ideas Page - [http://www.liquidgalaxylab.com/2018/01/advanced-gsoc-2018-project-ideas.html](http://www.liquidgalaxylab.com/2018/01/advanced-gsoc-2018-project-ideas.html)
 
 
 
