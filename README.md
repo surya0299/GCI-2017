@@ -6,6 +6,7 @@ This contains the following categories:
 * [3D Buildings](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/3D%20Buildings)
 * [Google Assistant Sheets](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/GoogleAssistantSheets)
 * [POIs](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/POIS)
+* [Scripts](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/Scripts)
 * [T-shirts](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/T-Shirts)
 * [Use Cases](https://github.com/LiquidGalaxyLAB/GCI-2017/tree/master/UseCases)
 
