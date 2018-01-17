@@ -1,0 +1,10 @@
+#!/bin/bash
+currentdirectory=$(dirname "$0")
+find "$currentdirectory" -name '*.kmz' | while read kmz; do
+poiset=$kmz
+unzip -o $poiset 
+poiset=${poiset#$"./"}
+poiset=${poiset%$".kmz"}
+./kmltoquery $poiset
+done
+

@@ -1,0 +1,60 @@
+earth@This 305 feet structure, is an iconic symbol of the United States. Its construction started on September 1875, What is this structure’s geo location?@flytoview=<LookAt><longitude>40.689247</longitude><latitude>-74.044502.</latitude><altitude>0</altitude><heading>This 305 feet structure, is an iconic symbol of the United States. Its construction started on September 1875, What is this structure’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This 8981 feet long bridge, connects the San Francisco Bay and the Pacific Ocean. What is this structure’s geo location?@flytoview=<LookAt><longitude>37.8086208</longitude><latitude>-122.47694969</latitude><altitude>0</altitude><heading>This 8981 feet long bridge, connects the San Francisco Bay and the Pacific Ocean. What is this structure’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This structure’s has 102 floors, and took one year to construct. What is this Structure’s geolocation?@flytoview=<LookAt><longitude>40.748817</longitude><latitude>-73.985428.</latitude><altitude>0</altitude><heading>This structure’s has 102 floors, and took one year to construct. What is this Structure’s geolocation?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This National Park, has an area of 3,471 mi², and is mostly in Wyoming. What is this place’s geo location?@flytoview=<LookAt><longitude>44.427963</longitude><latitude>-110.5884</latitude><altitude>0</altitude><heading>This National Park, has an area of 3,471 mi², and is mostly in Wyoming. What is this place’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the largest art museum in the United States. What is this place’s geo location?@flytoview=<LookAt><longitude>40.7791655</longitude><latitude>-73.96292779999999</latitude><altitude>0</altitude><heading>This is the largest art museum in the United States. What is this place’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This National Park straddles the border between North Carolina and Tennessee. It has the area of  816 mi². What is this place’s geo location?@flytoview=<LookAt><longitude>35.6117644</longitude><latitude>-83.4895449</latitude><altitude>0</altitude><heading>This National Park straddles the border between North Carolina and Tennessee. It has the area of  816 mi². What is this place’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This bridge is a hybrid cable-stayed/suspension bridge in New York City. What is this structure’s geolocation?@flytoview=<LookAt><longitude>40.7060855</longitude><latitude>-73.99686429999997</latitude><altitude>0</altitude><heading>This bridge is a hybrid cable-stayed/suspension bridge in New York City. What is this structure’s geolocation?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This structure is in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. What is this structure’s geo location?@flytoview=<LookAt><longitude>36.0157617</longitude><latitude>-114.73766749999999</latitude><altitude>0</altitude><heading>This structure is in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. What is this structure’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This National Park extends along the Blue Ridge Mountains in the U.S. state of Virginia. What is this place’s geo location.@flytoview=<LookAt><longitude>38.29275579999999</longitude><latitude>-78.6795836</latitude><altitude>0</altitude><heading>This National Park extends along the Blue Ridge Mountains in the U.S. state of Virginia. What is this place’s geo location.</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@It is the tallest building in the Western Hemisphere. What is this structure’s geo location?@flytoview=<LookAt><longitude>40.7130082</longitude><latitude>-74.01316889999998</latitude><altitude>0</altitude><heading>It is the tallest building in the Western Hemisphere. What is this structure’s geo location?</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the home of the United States Congress, and the seat of the legislative branch of the U.S. federal government. What is this structure’s geolocation? @flytoview=<LookAt><longitude>38.889939</longitude><latitude>-77.009051</latitude><altitude>0</altitude><heading>This is the home of the United States Congress, and the seat of the legislative branch of the U.S. federal government. What is this structure’s geolocation? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is a 110-story, 1,450-foot skyscraper in Chicago, Illinois. What is this structure’s geolocation? @flytoview=<LookAt><longitude>41.878876</longitude><latitude>-87.635915</latitude><altitude>0</altitude><heading>This is a 110-story, 1,450-foot skyscraper in Chicago, Illinois. What is this structure’s geolocation? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This structure in the third tallest building in Chicago. What is this structure’s geolocation? @flytoview=<LookAt><longitude>41.885254</longitude><latitude>-87.621492</latitude><altitude>0</altitude><heading>This structure in the third tallest building in Chicago. What is this structure’s geolocation? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the third tallest building in Houston. What is this structure’s geo location? @flytoview=<LookAt><longitude>29.737234</longitude><latitude>-95.46101</latitude><altitude>0</altitude><heading>This is the third tallest building in Houston. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is a presidential memorial in Washington, D.C., dedicated to Thomas Jefferson. What is this structure’s geo location? @flytoview=<LookAt><longitude>38.881396</longitude><latitude>-77.036457</latitude><altitude>0</altitude><heading>This is a presidential memorial in Washington, D.C., dedicated to Thomas Jefferson. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is a presidential memorial in Washington, D.C., dedicated to the 16th President of the United States. What is this structure’s geo location? @flytoview=<LookAt><longitude>38.889269</longitude><latitude>-77.050176</latitude><altitude>0</altitude><heading>This is a presidential memorial in Washington, D.C., dedicated to the 16th President of the United States. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the eighth-tallest building in the US. What is this structure’s geo location? @flytoview=<LookAt><longitude>41.898770</longitude><latitude>-87.622917</latitude><altitude>0</altitude><heading>This is the eighth-tallest building in the US. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This tower was formerly known as the Transbay Tower. What is this structure’s geo location? @flytoview=<LookAt><longitude>37.789900</longitude><latitude>-122.3969</latitude><altitude>0</altitude><heading>This tower was formerly known as the Transbay Tower. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the second-tallest building in Philadelphia. What is this structure’s geo location? @flytoview=<LookAt><longitude>39.954703</longitude><latitude>-75.168496</latitude><altitude>0</altitude><heading>This is the second-tallest building in Philadelphia. What is this structure’s geo location? </heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
+earth@This is the tallest building in Minneapolis.@flytoview=<LookAt><longitude>44.976074</longitude><latitude>-93.271884</latitude><altitude>0</altitude><heading>This is the tallest building in Minneapolis.</heading><tilt>0</tilt><range>0</range><gx:altitudeMode>0</gx:altitudeMode></LookAt>
+
+
