@@ -16,7 +16,7 @@ awk '{print $0 "</LookAt>"}' "$temp2" > "$temp3"
 awk  '{print "@flytoview=" $0}' "$temp3" > "$temp4"
 nl -w2 -s ' ' "$temp4" > "$temp5"
 awk  '{print "earth@" $0}' "$temp5" > $outputfile
-rm $temp1 $temp2 $temp3 $temp4 $temp5 $temp6
+rm $temp1 $temp2 $temp3 $temp4 $temp5
 
 
 
